@@ -8,26 +8,11 @@
 
 一键免费部署你的私人 ChatGPT 网页应用，支持 GPT3, GPT4 & Gemini Pro 模型。
 
-[企业版](#%E4%BC%81%E4%B8%9A%E7%89%88) /[演示 Demo](https://chat-gpt-next-web.vercel.app/) / [反馈 Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [加入 Discord](https://discord.gg/zrhvHCr79N)
+[企业版](#%E4%BC%81%E4%B8%9A%E7%89%88) /[演示 Demo](https://chen66.top/)
 
-[<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat) [<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat) [<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/333495/zhi_lin_ai)
 
 </div>
-
-## 企业版
-
-满足您公司私有化部署和定制需求
-- **品牌定制**：企业量身定制 VI/UI，与企业品牌形象无缝契合
-- **资源集成**：由企业管理人员统一配置和管理数十种 AI 资源，团队成员开箱即用
-- **权限管理**：成员权限、资源权限、知识库权限层级分明，企业级 Admin Panel 统一控制
-- **知识接入**：企业内部知识库与 AI 能力相结合，比通用 AI 更贴近企业自身业务需求
-- **安全审计**：自动拦截敏感提问，支持追溯全部历史对话记录，让 AI 也能遵循企业信息安全规范
-- **私有部署**：企业级私有部署，支持各类主流私有云部署，确保数据安全和隐私保护
-- **持续更新**：提供多模态、智能体等前沿能力持续更新升级服务，常用常新、持续先进
-
-企业版咨询: **business@nextchat.dev**
-
-<img width="300" src="https://github.com/user-attachments/assets/3daeb7b6-ab63-4542-9141-2e4a12c80601">
 
 ## 开始使用
 
