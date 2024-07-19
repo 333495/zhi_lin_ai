@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href='#企业版'>
-  <img src="./docs/images/ent.svg" alt="icon"/>
-</a>
-
 <h1 align="center">NextChat (ChatGPT Next Web)</h1>
 
 English / [简体中文](./README_CN.md)
@@ -17,9 +13,9 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://app.nextchat.dev/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/NextChatDev)
+[Web App](https://api.chen66.top/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
 
-[网页版](https://app.nextchat.dev/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [企业版](#%E4%BC%81%E4%B8%9A%E7%89%88) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
+[网页版](https://api.chen66.top/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / 
 
 [web-url]: https://app.nextchat.dev/
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
